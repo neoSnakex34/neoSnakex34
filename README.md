@@ -1,4 +1,4 @@
 neo:snake:x34
-some random *stuff*
+jeez that's cringe!
 
 

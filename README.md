@@ -1,5 +1,5 @@
 ## Who am I? 
-- A Computer Science Bachelor Student @ Sapienza Uniroma
+- B.Sc. Student in Infromatics (Computer Science) @ Sapienza Uniroma
 - A tech enthusiast, software dev
 
 ## What am I interested in? 
@@ -7,23 +7,25 @@
 - Operating Systems and Low Level stuff (gnu+linux <3)
 - Cybersec 
 - Full Stack development
-- Open Source community
+- FLOSS software and Open Source community
   
 ## What have I worked with or am I working with rn?
 - Golang
-- Python
+- Python 
 - Java
-- Vue.js / plain js 
+- Vue.js
+- Node.js (General scripting with Vanilla JS and backend programming) 
 - DBMS
-- Container
+- Container 
 - Rust
 
 ## Skills I have or I am working on?
 - Object Oriented Programming
-- Python scripting
+- Algorithm Design and Implementation
+- Python/JS scripting
 - Backend programming
 - Fullstack development
-- Old engine architecture emulation
+- Old engines architecture emulation
 
 
 

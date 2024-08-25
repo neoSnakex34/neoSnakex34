@@ -6,15 +6,16 @@
 - Hardware
 - Operating Systems and Low Level stuff (gnu+linux <3)
 - Cybersec 
-- Full Stack development
+- WebDev (currently frontend)
 - FLOSS software and Open Source community
   
 ## What have I worked with or am I working with rn?
+- Vue.js
+- Node.js
+- ECMAScript (JS/TS)
 - Golang
 - Python 
 - Java
-- Vue.js
-- Node.js (General scripting with Vanilla JS and backend programming) 
 - DBMS
 - Container 
 - Rust

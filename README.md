@@ -21,6 +21,7 @@
 - Rust
 
 ## Skills I have or I am working on?
+- Frontend Web Development
 - Object Oriented Programming
 - Algorithm Design and Implementation
 - Python/JS scripting

@@ -1,32 +1,31 @@
 ## Who am I? 
+- A passionate webdev 
 - B.Sc. Student in Infromatics (Computer Science) @ Sapienza Uniroma
-- A tech enthusiast, software dev
 
 ## What am I interested in? 
 - Hardware
 - Operating Systems and Low Level stuff (gnu+linux <3)
 - Cybersec 
-- WebDev (currently frontend)
+- WebDev 
 - FLOSS software and Open Source community
   
 ## What have I worked with or am I working with rn?
-- Vue.js
-- Node.js
-- ECMAScript (JS/TS)
-- Golang
+- Node.js [ express ] 
+- ECMAScript (JS/TS) [ Vue; React ] 
+- Golang [ net/http; gin-gonic ]
 - Python 
 - Java
-- DBMS
+- DBMS [ SQL; NoSql ] 
 - Container 
 - Rust
 
 ## Skills I have or I am working on?
-- Frontend Web Development
+- REST; CRUD
+- Backend Development 
+- Frontend Development 
 - Object Oriented Programming
 - Algorithm Design and Implementation
 - Python/JS scripting
-- Backend programming
-- Fullstack development
 - Old engines architecture emulation
 
 

@@ -1,6 +1,6 @@
 ## Who am I? 
 - A freelance web developer, focused on front-end solutions or full-stack web applications 
-- B.Sc. Student in Infromatics (Computer Science) @ Sapienza Uniroma
+- B.Sc. Student in Computer Science @ Sapienza Uniroma
 
 ## What am I interested in? 
 - Hardware

@@ -4,9 +4,9 @@
 
 ## What am I interested in? 
 - Hardware
-- Operating Systems and Low Level stuff (gnu+linux <3)
-- Cybersec 
-- WebDev 
+- Operating Systems and Low Level stuff
+- Cybersec
+- Full Stack Web Dev 
 - FLOSS software and Open Source community
   
 ## What have I worked with or am I working with rn?
@@ -16,8 +16,8 @@
 - Python 
 - Java
 - DBMS [ SQL; NoSql ] 
-- Container 
-- Rust
+- Container
+- Rust/C 
 
 ## Skills I have or I am working on?
 - REST; CRUD

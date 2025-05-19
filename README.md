@@ -14,9 +14,9 @@
 - ECMAScript (JS/TS) [ Vue; React ] 
 - Golang [ net/http; gin-gonic ]
 - Python 
-- Java
+- Java [ spring boot ]
 - DBMS [ SQL; NoSql ] 
-- Container
+- Container [ docker/podman ]
 - Rust/C 
 
 ### Skills I have or I am working on?

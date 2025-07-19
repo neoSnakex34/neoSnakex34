@@ -13,7 +13,8 @@
 - Node.js [ express ] 
 - ECMAScript (JS/TS) [ Vue; React ] 
 - Golang [ net/http; gin-gonic ]
-- Python 
+- Python
+- C++
 - Java [ spring boot ]
 - DBMS [ SQL; NoSql ] 
 - Container [ docker/podman ]

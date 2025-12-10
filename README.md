@@ -7,7 +7,7 @@
 - Operating Systems and Low Level stuff
 - Cybersec
 - Full Stack Web Dev 
-- FLOSS software and Open Source community
+- FLOS software and Open Source community
   
 ### What have I worked with or am I working with rn?
 - Node.js [ express ] 

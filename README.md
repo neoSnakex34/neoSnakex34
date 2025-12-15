@@ -10,8 +10,9 @@
 - FLOS software and Open Source community
   
 ### What have I worked with or am I working with rn?
-- Node.js [ express ] 
-- ECMAScript (JS/TS) [ Vue; React ] 
+- ECMAScript (TS/JS) [ React/Preact; Vue.js ]
+- Node.js [ express ]
+- Deno 
 - Golang [ net/http; gin-gonic ]
 - Python
 - C++

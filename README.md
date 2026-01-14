@@ -1,5 +1,6 @@
 ### Who am I? 
-- A freelance web developer, focused on front-end solutions or full-stack web applications 
+- A freelance developer, focused on front-end solutions or full-stack web applications
+- Currently studying game dev
 - B.Sc. Student in Computer Science @ Sapienza Uniroma
 
 ### What am I interested in? 
@@ -25,6 +26,7 @@
 
 ### Skills I have or I am working on?
 - REST; CRUD
+- Game Dev
 - Backend Development 
 - Frontend Development 
 - Object Oriented Programming
@@ -34,8 +36,10 @@
 
 ### Out of curiosity
 #### Distro I use 
-- Project Bluefin (not exactly a distro)
+- Fedora Kinoite
 - Fedora Silverblue
+
+Both are heavily influenced by the workflow intended from project bluefin
 
 #### Distro I used and loved 
 - NixOS

@@ -1,32 +1,33 @@
 ### Who am I? 
-- A freelance developer, focused on front-end solutions or full-stack web applications
-- Currently studying game dev
+- A freelance developer, focused on front-end solutions or full-stack cloud based apps
+- Currently studying various math topics
 - B.Sc. Student in Computer Science @ Sapienza Uniroma
 
 ### What am I interested in? 
+- Cloud environments and Containers 
 - Full Stack Web Dev 
-- FLOS software and Open Source community
-- Atomic Distros - Containerized Workflows
+- Free Libre and Open Source (FLOS) software and community
+- Immutable Distros - Reproducible Workflows
 - Hardware
 - Operating Systems and Low Level stuff
-- Cybersec
+- System security
 
   
 ### What have I worked with or am I working with rn?
+- Python [ Pandas; FastAPI ]
 - ECMAScript (TS/JS) [ React/Preact; Vue.js ]
 - Node.js [ express ]
 - Deno 
 - Golang [ net/http; gin-gonic ]
-- Python
 - C++
 - Java [ spring boot ]
 - DBMS [ SQL; NoSql ] 
-- Container [ docker/podman | devcontainers ]
+- Container [ podman/docker | devcontainers ]
 - Rust/C 
 
 ### Skills I have or I am working on?
 - REST; CRUD
-- Game Dev
+- 2d Game Dev
 - Backend Development 
 - Frontend Development 
 - Object Oriented Programming
@@ -37,12 +38,14 @@
 ### Out of curiosity
 #### Distro I use 
 - Fedora Kinoite
-- Fedora Silverblue
+- Void
 
-Both are heavily influenced by the workflow intended from project bluefin
+Both are **strongly** influenced by the workflow intended from project bluefin
 
 #### Distro I used and loved 
+- Bluefin | Silverblue
 - NixOS
 - Arch | Endeavour
-- Fedora 40 (xfce) 
+- Fedora 40 (xfce)
+
 

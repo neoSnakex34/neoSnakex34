@@ -1,5 +1,6 @@
 ### Who am I? 
-- A freelance developer, focused on front-end solutions or full-stack cloud based apps
+- A Cloud Transformation Internet @ Accenture
+- A Web developer, focused on front-end solutions or full-stack cloud based apps
 - Currently studying various math topics
 - B.Sc. Student in Computer Science @ Sapienza Uniroma
 
@@ -20,7 +21,7 @@
 - Deno 
 - Golang [ net/http; gin-gonic ]
 - C++
-- Java [ spring boot ]
+- Java [ Spring ]
 - DBMS [ SQL; NoSql ] 
 - Container [ podman/docker | devcontainers ]
 - Rust/C 

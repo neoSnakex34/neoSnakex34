@@ -1,5 +1,5 @@
 ### Who am I? 
-- A Cloud Transformation Internet @ Accenture
+- A Cloud Transformation Intern @ Accenture
 - A Web developer, focused on front-end solutions or full-stack cloud based apps
 - Currently studying various math topics
 - B.Sc. Student in Computer Science @ Sapienza Uniroma

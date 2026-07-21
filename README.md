@@ -24,6 +24,7 @@
 - Java [ Spring ]
 - DBMS [ SQL; NoSql ] 
 - Container [ podman/docker | devcontainers ]
+- Orchestration [Kubernetes]
 - Rust/C 
 
 ### Skills I have or I am working on?
